@@ -1,0 +1,72 @@
+{"properties": [
+  {
+    "name": "strategies.macd-change-indicator",
+    "type": "java.lang.String",
+    "description": "A description for 'strategies.macd-change-indicator'"
+  },
+  {
+    "name": "strategies.rsiPositiveSideMinimum",
+    "type": "java.lang.String",
+    "description": "A description for 'strategies.rsiPositiveSideMinimum'"
+  },
+  {
+    "name": "strategies.rsiPositiveSideMaximum",
+    "type": "java.lang.String",
+    "description": "A description for 'strategies.rsiPositiveSideMaximum'"
+  },
+  {
+    "name": "strategies.rsiNegativeSideMinimum",
+    "type": "java.lang.String",
+    "description": "A description for 'strategies.rsiNegativeSideMinimum'"
+  },
+  {
+    "name": "strategies.rsiNegativeSideMaximum",
+    "type": "java.lang.String",
+    "description": "A description for 'strategies.rsiNegativeSideMaximum'"
+  },
+  {
+    "name": "strategies.simulationModeStartingValue",
+    "type": "java.lang.String",
+    "description": "A description for 'strategies.simulationModeStartingValue'"
+  },
+  {
+    "name": "strategies.percentageOfMoneyPerTrade",
+    "type": "java.lang.String",
+    "description": "A description for 'strategies.percentageOfMoneyPerTrade'"
+  },
+  {
+    "name": "strategies.trailingSl",
+    "type": "java.lang.String",
+    "description": "A description for 'strategies.trailingSl'"
+  },
+  {
+    "name": "strategies.takeProfit",
+    "type": "java.lang.String",
+    "description": "A description for 'strategies.takeProfit'"
+  },
+  {
+    "name": "strategies.confluence",
+    "type": "java.lang.String",
+    "description": "A description for 'strategies.confluence'"
+  },
+  {
+    "name": "strategies.closeConfluence",
+    "type": "java.lang.String",
+    "description": "A description for 'strategies.closeConfluence'"
+  },
+  {
+    "name": "strategies.useConfluenceToClose",
+    "type": "java.lang.String",
+    "description": "A description for 'strategies.useConfluenceToClose'"
+  },
+  {
+    "name": "strategies.currenciesToTrack",
+    "type": "java.lang.String",
+    "description": "A description for 'strategies.currenciesToTrack'"
+  },
+  {
+    "name": "strategies.fiat",
+    "type": "java.lang.String",
+    "description": "A description for 'strategies.fiat'"
+  }
+]}

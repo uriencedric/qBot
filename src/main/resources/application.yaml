@@ -1,0 +1,15 @@
+strategies:
+    macdChangeIndicator: 0.25
+    rsiPositiveSideMinimum: 15
+    rsiPositiveSideMaximum: 30
+    rsiNegativeSideMinimum: 70
+    rsiNegativeSideMaximum: 80
+    simulationModeStartingValue: 10000
+    percentageOfMoneyPerTrade: 0.2
+    trailingSl: 0.1
+    takeProfit: 0.15
+    confluence: 2
+    closeConfluence: 2
+    useConfluenceToClose: true
+    currenciesToTrack: 'BTC, ETH'
+    fiat: USDT
